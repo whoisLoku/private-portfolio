@@ -21,6 +21,10 @@ The source code is not publicly available, as some of these projects were develo
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_DiarmbDpaN" src="https://github.com/user-attachments/assets/17171891-2a90-4be8-a814-e32433915695" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_tGZqtPRzsZ" src="https://github.com/user-attachments/assets/b10b15a5-7013-4183-a350-fb2026d441d8" />
 
+### HUD
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e05f31b-b30f-44c8-ac36-648768f0af26" />
+<img width="315" height="265" alt="image" src="https://github.com/user-attachments/assets/bdbec983-dc92-4ae3-ac10-a8e9b6158994" />
+
 
 ### Fishing
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_IEeJNJEfSv" src="https://github.com/user-attachments/assets/822f748b-9222-416a-901a-e44e8c71353a" />
