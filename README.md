@@ -1,8 +1,21 @@
-## Hello
+## HELLO
 
 This repository showcases some of my private UI concepts and experimental FiveM projects. Most of these were created to improve my skills, explore new ideas, and experiment with different systems and interfaces. Some projects were inspired by existing FiveM servers as personal practice, while others were built entirely from scratch as prototypes on my local development server.
 
 The source code is not publicly available, as some of these projects were developed for private use or are still works in progress. This repository is simply a collection of previews to showcase what I've been working on behind the scenes.
+
+## WEBSITE
+
+### CS2 Servers Homepage and Armory (Skinchanger)
+<img width="1912" height="914" alt="msedge_TW2gMonAyB" src="https://github.com/user-attachments/assets/2e6c16b5-bb98-41e1-a8f8-ea48985ed3d2" />
+<img width="1912" height="914" alt="msedge_lgiAIFtxO1" src="https://github.com/user-attachments/assets/c5ff8dcf-1530-4f2a-9f15-83d86ae7372f" />
+<img width="1920" height="1080" alt="msedge_iqfJYOOs65" src="https://github.com/user-attachments/assets/e5535414-913a-40b1-aa5c-c2f3c825c9b1" />
+<img width="1912" height="914" alt="msedge_I1kmdHNhAZ" src="https://github.com/user-attachments/assets/3e9eb197-e935-4289-a8ae-347a80e26829" />
+<img width="1912" height="914" alt="msedge_pvJgPPri4d" src="https://github.com/user-attachments/assets/ab9397e4-50f1-4e33-85fe-ffd0ec5aedbb" />
+
+
+
+## FIVEM
 
 ### Inventory
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_u0H24rqD6G" src="https://github.com/user-attachments/assets/9d2bd9d7-1ad9-4a83-bafa-a40e948489e8" />
