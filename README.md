@@ -1,6 +1,6 @@
 ## Hello
 
-This repository showcases some of my private UI concepts and experimental FiveM projects. Most of these were created to improve my skills, explore new ideas, and experiment with different systems and interfaces. Some projects were inspired by existing FiveM servers as personal practice, while others were built entirely from scratch as prototypes on my local development server. The source code is not publicly available.
+This repository showcases some of my private UI concepts and experimental FiveM projects. Most of these were created to improve my skills, explore new ideas, and experiment with different systems and interfaces. Some projects were inspired by existing FiveM servers as personal practice, while others were built entirely from scratch as prototypes on my local development server.
 
 The source code is not publicly available, as some of these projects were developed for private use or are still works in progress. This repository is simply a collection of previews to showcase what I've been working on behind the scenes.
 
