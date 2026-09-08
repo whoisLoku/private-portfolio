@@ -26,6 +26,14 @@ The source code is not publicly available, as some of these projects were develo
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_wCtSZ00Xux" src="https://github.com/user-attachments/assets/99fa5f32-fb7a-4d38-a0b8-6d472a15c355" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_5qbrqICrFq" src="https://github.com/user-attachments/assets/785bdd16-89bf-45bf-bcc9-1a7cb5debfa6" />
 
+### HUD
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e05f31b-b30f-44c8-ac36-648768f0af26" />
+<img width="315" height="265" alt="image" src="https://github.com/user-attachments/assets/bdbec983-dc92-4ae3-ac10-a8e9b6158994" />
+
+### HUDV2
+<img width="1920" height="1080" alt="20865D~1" src="https://github.com/user-attachments/assets/167d66a1-8c9b-4d29-ade3-3b734b47b064" />
+<img width="1920" height="1080" alt="209CE5~1" src="https://github.com/user-attachments/assets/0da328c2-3199-4794-9e2c-b09bd629aeac" />
+
 ### Notebook
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_Psj640P6ha" src="https://github.com/user-attachments/assets/cfa0253e-2708-4817-b7a7-38316bd0dd55" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_4UlE3vzB2B" src="https://github.com/user-attachments/assets/91b50d4f-ec4d-45bf-9c91-baac4426ac7a" />
@@ -34,21 +42,32 @@ The source code is not publicly available, as some of these projects were develo
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_DiarmbDpaN" src="https://github.com/user-attachments/assets/17171891-2a90-4be8-a814-e32433915695" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_tGZqtPRzsZ" src="https://github.com/user-attachments/assets/b10b15a5-7013-4183-a350-fb2026d441d8" />
 
-### HUD
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e05f31b-b30f-44c8-ac36-648768f0af26" />
-<img width="315" height="265" alt="image" src="https://github.com/user-attachments/assets/bdbec983-dc92-4ae3-ac10-a8e9b6158994" />
+### Loading Screen
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc5c510f-19ef-46db-8875-779dbdbdcb4f" />
 
+### Rental
+<img width="1920" height="1080" alt="207B3F~1" src="https://github.com/user-attachments/assets/f2019038-fb3d-45cd-bb1c-992a34e69017" />
 
 ### Fishing
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_IEeJNJEfSv" src="https://github.com/user-attachments/assets/822f748b-9222-416a-901a-e44e8c71353a" />
+
+### Character Select
+<img width="1920" height="1080" alt="202609~4" src="https://github.com/user-attachments/assets/4f68e050-2ed3-40d9-b247-91f94dccae43" />
+<img width="1920" height="1080" alt="2018AA~1" src="https://github.com/user-attachments/assets/0f6182bb-9283-42f4-a6ed-3e0e7fa13a35" />
 
 ### NPC Talk and Pickpocket
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_VrKLsuMki9" src="https://github.com/user-attachments/assets/8072e559-856b-47dc-aabc-571b9bf3ada8" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_4O6mP39T4s" src="https://github.com/user-attachments/assets/2213c5a6-6427-4d3a-9350-ba007602b4ee" />
 
-### Clothing Store
+### Appearance
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_n2vKaAfdPz" src="https://github.com/user-attachments/assets/b86c1968-e5ba-4c12-ab09-e542fb82c6fe" />
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_6aOq1N3rSj" src="https://github.com/user-attachments/assets/beffd955-89cb-4f39-ad30-002348f64633" />
+
+### Appearance v2
+<img width="1920" height="1080" alt="203244~1" src="https://github.com/user-attachments/assets/afc86df7-8054-4119-92b1-90d50a646d90" />
+<img width="1920" height="1080" alt="201E96~1" src="https://github.com/user-attachments/assets/b01d88e2-0734-48b2-8d09-5e6226a56d06" />
+<img width="1920" height="1080" alt="20F9EC~1" src="https://github.com/user-attachments/assets/317659ba-a099-44f0-a6c5-1503d8abb468" />
+<img width="1920" height="1080" alt="2099F0~1" src="https://github.com/user-attachments/assets/69640478-63b5-45b8-949f-3edc2c7e121d" />
 
 ### Market and Job Menu
 <img width="1920" height="1080" alt="FiveM_b3570_GTAProcess_98wGNgprBd" src="https://github.com/user-attachments/assets/6edceb86-ea12-4c73-bd67-1f118ec701e7" />
